@@ -1,0 +1,37 @@
+{
+  "name": "blanditiisenim",
+  "description": "Another fork of js-beautify for node",
+  "version": "1.0.0",
+  "homepage": "https://github.com/KearaSchaden/blanditiisenim.git",
+  "author": "JerrySchimmel",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KearaSchaden/blanditiisenim.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KearaSchaden/blanditiisenim.git/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/pix/node-js-beautify/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/node-js-beautify",
+  "engines": {
+    "node": ">= 0.6.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt": "~0.3.11"
+  },
+  "keywords": [
+    "voluptatibus",
+    "beautify",
+    "pretty",
+    "qui",
+    "printer"
+  ]
+}
